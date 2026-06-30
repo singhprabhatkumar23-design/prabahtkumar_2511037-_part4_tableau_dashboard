@@ -71,33 +71,6 @@ The campaign_channel data (Organic, Social, Referral, Paid, Email) provides a st
 
 ---
 
-## Recommended Business Actions
-
-1. **Enforce a 20% maximum discount policy immediately** — any discount above 20% requires explicit CFO approval. Implement the Discount vs Profit dashboard view as a standing weekly report.
-
-2. **Commission a full Furniture profitability audit** including return costs, shipping costs, and discounting patterns by sub-category. Set a category minimum margin target of 10%. If Tables and Bookcases cannot reach 10% within two quarters, reduce their SKU presence.
-
-3. **Protect and grow Technology** — increase inventory investment in Copiers, Phones, and Accessories. Set a sales growth target of 8–10% for Technology in 2026 to maintain its position as the primary profit engine.
-
-4. **Investigate the profit-growth gap** — commission a cost analysis to identify what is growing faster than revenue. If it is discounting, the policy change above addresses it. If it is logistics or procurement costs, address those directly.
-
-5. **Pilot premium pricing in South region** for high-margin Technology products in Q1 2026. Measure margin impact over 90 days before scaling.
 
 ---
 
-## Dashboard Limitations and Suggested Next Areas for Analysis
-
-**Limitation 1 — No unit economics by product.** The dataset aggregates at order level. To fully understand which specific SKUs are profitable or loss-making, a product-level cost analysis is needed.
-
-**Limitation 2 — Return costs are not quantified.** The `return_flag` field marks returns but does not include the cost of reverse logistics, restocking, or write-offs. A full return cost model would give a truer picture of Furniture's real margin.
-
-**Limitation 3 — Campaign channel data is incomplete.** 24 records (0.6%) have missing campaign channel. If missing data is concentrated in a specific channel (e.g., all Paid channel orders are missing), the campaign analysis could be biased.
-
-**Limitation 4 — Two-year window only.** With only 2024–2025 data, it is not possible to assess multi-year trends, pre-pandemic benchmarks, or seasonality patterns that require 3+ years to identify reliably.
-
-**Suggested next analyses:**
-- Customer lifetime value (LTV) analysis by segment and region
-- Product-level profitability including return costs
-- Marketing campaign ROI by channel (revenue per ₹1 of campaign spend)
-- Cohort analysis: are newer customers as profitable as older customers?
-- Churn analysis: what is the repeat purchase rate by segment?
